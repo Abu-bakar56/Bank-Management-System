@@ -1867,7 +1867,7 @@ class account extends JFrame implements ActionListener {
         });
     }
 
-    void user1() {
+    void userss() {
         JFrame jframe3 = new JFrame();
         ImageIcon imageIcon = new ImageIcon("logo.png");
         jframe3.setIconImage(imageIcon.getImage());
@@ -2029,7 +2029,7 @@ class account extends JFrame implements ActionListener {
     }
 
     void user() {
-        user1();
+        userss();
     }
 
     void Accounts() {
