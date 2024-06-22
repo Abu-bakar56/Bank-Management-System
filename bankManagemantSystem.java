@@ -6,6 +6,7 @@ import java.sql.*;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 
+                                           // BY ABU-BAKAR SHAHZAD
 class account extends JFrame implements ActionListener {
     int accNum;
     Connection connection;
@@ -1867,7 +1868,7 @@ class account extends JFrame implements ActionListener {
         });
     }
 
-    void userss() {
+    void users1() {
         JFrame jframe3 = new JFrame();
         ImageIcon imageIcon = new ImageIcon("logo.png");
         jframe3.setIconImage(imageIcon.getImage());
@@ -2029,10 +2030,11 @@ class account extends JFrame implements ActionListener {
     }
 
     void user() {
-        userss();
+        users1();
     }
 
     void Accounts() {
+
         JFrame jframe = new JFrame();
         ImageIcon imageIcon = new ImageIcon("logo.png");
         jframe.setIconImage(imageIcon.getImage());
