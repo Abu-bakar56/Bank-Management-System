@@ -1,10 +1,5 @@
 This project of Bank Management System is in java with Gui (Swing and Awt)  and DataBase .
 
-•	The Bank Management System is designed to streamline banking operations. 
-•	It allows users to create and manage bank accounts, perform transactions, and maintain account details. 
-•	The system interacts with a MySQL database for data storage and retrieval. 
-
-
 Project Overview: 
  
 •	The Bank Management System is designed to streamline banking operations. 
